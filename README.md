@@ -15,4 +15,5 @@ Before using this HyprLand configuration, make sure you have the following packa
 - wireplumber: Required for screen sharing functionality.
 - qt5-wayland: libray
 - qt6-wayland: libray
+- cliphist    a clipboard manager
 
