@@ -16,4 +16,5 @@ Before using this HyprLand configuration, make sure you have the following packa
 - qt5-wayland: libray
 - qt6-wayland: libray
 - cliphist    a clipboard manager
+- grim and slurp for screenshot 
 
