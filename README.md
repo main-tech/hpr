@@ -8,7 +8,7 @@ Before using this HyprLand configuration, make sure you have the following packa
 
 - hyprpaper: Sets wallpaper for the desktop.
 - waybar: Provides a status bar for the desktop.
-- mako: A notification daemon.
+- dunst: A notification daemon.
 - xdg-desktop-portal-hyprland: Enables swift communication between applications and the compositor through D-Bus.
 - polkit-kde-agent: Displays a password prompt whenever an application needs elevated privileges.
 - pipewire: Required for screen sharing.
