@@ -19,4 +19,4 @@ Before using this HyprLand configuration, make sure you have the following packa
 - grim and slurp     for screenshot 
 - brightnessctl A program to read and control device brightness
 - wlsunset for filtering blue light
-
+- udiskie and udisks2 for automatically mounting
