@@ -21,3 +21,4 @@ Before using this HyprLand configuration, make sure you have the following packa
 - wlsunset for filtering blue light
 - udiskie and udisks2 for automatically mounting
 - nautilus,  gnone file manager
+- alacritty, terminal emulator
