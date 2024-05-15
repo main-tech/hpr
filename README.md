@@ -22,3 +22,4 @@ Before using this HyprLand configuration, make sure you have the following packa
 - udiskie and udisks2 for automatically mounting
 - nautilus,  gnone file manager
 - alacritty, terminal emulator
+- set Alacritty as the default terminal emulator instead of xterm, execute the command: "sudo ln -T /usr/bin/alacritty /usr/bin/xterm". Remember that some programs might rely on xterm as the default, so ensure they are compatible with Alacritty before proceeding. If xterm is installed, uninstall it to avoid conflicts
